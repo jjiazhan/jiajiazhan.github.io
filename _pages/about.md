@@ -19,7 +19,7 @@ I am a first-year PhD in the [department of Economics & Public Policy](https://w
 Quality Certification, Demand, and Physician Response: Evidence from an Online Healthcare Market; with [Xu Zhang](https://www.london.edu/faculty-and-research/faculty-profiles/x/xu-zhang) and [Hongqiao Fu](https://sph.pku.edu.cn/info/1650/4284.htm)    
 </summary>
 </details>
-<p></p>
+<br/>
 
 [^_^]:
     <details>
@@ -28,11 +28,10 @@ Quality Certification, Demand, and Physician Response: Evidence from an Online H
     </summary>
     </details>
     <p></p>
-
+[^_^]:
     <details>
     <summary markdown='span'>
     Capitation, Provider Incentive and Cost Shifting
     </summary>
     </details>
-<br/>
 
