@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Jiajia Zhan"
 title_separator          : "-"
 name                     : &name "Jiajia Zhan"
 description              : &description "homepage for Jiajia Zhan"
@@ -83,7 +83,7 @@ author:
   name             : "Jiajia Zhan"
   avatar           : "profile2.jpg"
   bio              : ""
-  location         : "London"
+  location         : "London, England"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
