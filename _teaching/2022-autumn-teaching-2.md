@@ -1,7 +1,7 @@
 ---
 title: "Managerial Economics"
 collection: teaching
-type: "master courses"
+type: "Master course"
 permalink: /teaching/2022-autumn-teaching-2
 venue: "Imperial College London, Business School"
 date: 2022-09-08
