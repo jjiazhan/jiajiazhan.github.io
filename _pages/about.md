@@ -17,7 +17,7 @@ I am a first-year PhD in the [department of Economics & Public Policy](https://w
 
 <details>
 <summary markdown='span'>
-Quality Certification, Demand, and Physician Response: Evidence from an Online Healthcare Market; with [Xu Zhang](https://www.london.edu/faculty-and-research/faculty-profiles/x/xu-zhang) and [Hongqiao Fu](https://sph.pku.edu.cn/info/1650/4284.htm)    
+Quality Certification, Demand, and Physician Response: Evidence from an Online Healthcare Marketplace; with [Xu Zhang](https://www.london.edu/faculty-and-research/faculty-profiles/x/xu-zhang) and [Hongqiao Fu](https://sph.pku.edu.cn/info/1650/4284.htm)    
 </summary>
 </details>
 <br/>
