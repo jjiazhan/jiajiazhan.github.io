@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year PhD in the [department of Economics & Public Policy](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/economics-public-policy/) at Imperial College London Business School. I obtained both my B.A and M.A. degrees in Economics at Peking University. My research interests fall at the intersection of Empirical Industrial Organization and Health Economics. 
 <p></p>
-**Advisors**: [Carol Propper](https://www.imperial.ac.uk/people/c.propper) and [Stephan Seiler](https://www.seilerstephan.com/)
+**Advisors:** [Carol Propper](https://www.imperial.ac.uk/people/c.propper) and [Stephan Seiler](https://www.seilerstephan.com/)
 <br/>
 
 # Work-in-progress
