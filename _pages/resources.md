@@ -36,5 +36,5 @@ Here are some resources that helped me a lot (inspired by [Javier Donna](https:/
 
 # On Writing and Presentation
 
-# One seminars and conferences
+# On Seminars and Conferences
 
