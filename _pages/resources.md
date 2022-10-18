@@ -10,6 +10,7 @@ Here are some resources that helped me tremendously (inspired by [Javier Donna](
 # On Useful Notes
 * Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html) and [IO](https://chrisconlon.github.io/gradio.html)
 * Jonathan Levin's [notes on market design and IO](https://web.stanford.edu/~jdlevin/teaching.html)
+* Ian McCarthy's [supply-side health economics topics](https://econ771f22.classes.ianmccarthyecon.com/)
 
 # On Codes
 * **Code repositories for published papers**
