@@ -9,7 +9,6 @@ Here are some resources that helped me tremendously (inspired by [Javier Donna](
 
 # On Useful Notes
 * Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html) and [IO](https://chrisconlon.github.io/gradio.html)
-* Scott Cunningham's [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html)
 * Jonathan Levin's [notes on market design and IO](https://web.stanford.edu/~jdlevin/teaching.html)
 
 # On Codes
@@ -17,7 +16,7 @@ Here are some resources that helped me tremendously (inspired by [Javier Donna](
   * [AEA journals (AER, AEJ)](https://www.openicpsr.org/openicpsr/aea)
   * [Econometrica](https://www.econometricsociety.org/publications/econometrica/journal-materials/supplemental-materials)
   * [ReStud](https://restud.github.io/data-editor/replicate/)
-  * [Journal of Finance](https://voices.uchicago.edu/jfeditor/2018/03/06/code-sharing-policy-update/): scroll down on Wiley and click on supporting information
+
 * **Logit demand**
   * Kenneth Train's [codes on mixed logit](https://eml.berkeley.edu/~train/software.html)
   * Jason Blevin's post on [log sum of exponentials](https://jblevins.org/log/log-sum-exp) (what to do when my logit demand explodes?)
