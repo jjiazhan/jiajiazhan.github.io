@@ -5,12 +5,12 @@ author_profile: true
 redirect_from:
   - /resources.html
 ---
-Here are some resources that helped me tremendously (inspired by [Javier Donna](https://www.jdonna.org/resources) and [Chuqing Jin](https://chuqingjin.github.io/resources/))
+Here are some resources that helped me a lot (inspired by [Javier Donna](https://www.jdonna.org/resources) and [Chuqing Jin](https://chuqingjin.github.io/resources/))
 
 # On Useful Notes
 * Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html) and [IO](https://chrisconlon.github.io/gradio.html)
-* Scott Cunningham's [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html)
 * Jonathan Levin's [notes on market design and IO](https://web.stanford.edu/~jdlevin/teaching.html)
+* Ian McCarthy's [supply-side health economics topics](https://econ771f22.classes.ianmccarthyecon.com/)
 
 # On Coding and Programming
 * [R for Data Science](https://r4ds.had.co.nz/)
@@ -38,6 +38,7 @@ Here are some resources that helped me tremendously (inspired by [Javier Donna](
   * QuantEcon: a [Jupyter notebook library](https://notes.quantecon.org/) for economics and finance
   * [Matching data in financial databases](https://libguides.princeton.edu/MatchFinancial) -->
 
-
 # On Writing and Presentation
+
+# On Seminars and Conferences
 
