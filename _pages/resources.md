@@ -39,7 +39,7 @@ Here are some resources that helped me a lot (inspired by [Javier Donna](https:/
   * [Matching data in financial databases](https://libguides.princeton.edu/MatchFinancial) -->
 
 # On Writing and Presentation
-* Neale Mahoney's JEP 2022 paper on [Priciples for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.211)
+* Neale Mahoney's JEP 2022 paper on [Principles for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.211)
 
 
 # On Seminars and Conferences
