@@ -40,7 +40,11 @@ Here are some resources that helped me a lot (inspired by [Javier Donna](https:/
 
 # On Writing and Presentation
 * Neale Mahoney's JEP 2022 paper on [Principles for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.211)
-
+  1. Show your variation with descriptive analysis (to "make the case" for the identifying variation that drives the rest of the empirical analysis.).
+  2. Use the descriptive analysis to provide preliminary evidence.
+  3. Use the descriptive analysis to guide choices of what to model -- especially what **not** to model.
+  4. Clearly articulate the value-added of the model.
+  5. Choose parameters of interest and counterfactuals that are informed by your variation.
 
 # On Seminars and Conferences
 
