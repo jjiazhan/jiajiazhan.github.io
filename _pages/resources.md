@@ -21,7 +21,7 @@ Here are some resources that helped me a lot (inspired by [Javier Donna](https:/
   * [AEA journals (AER, AEJ)](https://www.openicpsr.org/openicpsr/aea)
   * [Econometrica](https://www.econometricsociety.org/publications/econometrica/journal-materials/supplemental-materials)
   * [ReStud](https://restud.github.io/data-editor/replicate/)
-  * [Journal of Finance](https://voices.uchicago.edu/jfeditor/2018/03/06/code-sharing-policy-update/): scroll down on Wiley and click on supporting information
+
 <!-- * **Logit demand**
   * Kenneth Train's [codes on mixed logit](https://eml.berkeley.edu/~train/software.html)
   * Jason Blevin's post on [log sum of exponentials](https://jblevins.org/log/log-sum-exp) (what to do when my logit demand explodes?)
@@ -39,6 +39,8 @@ Here are some resources that helped me a lot (inspired by [Javier Donna](https:/
   * [Matching data in financial databases](https://libguides.princeton.edu/MatchFinancial) -->
 
 # On Writing and Presentation
+* Neale Mahoney's JEP 2022 paper on [Priciples for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.211)
+
 
 # On Seminars and Conferences
 
