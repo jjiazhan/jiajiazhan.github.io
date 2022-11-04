@@ -39,7 +39,7 @@ Here are some resources that helped me a lot (inspired by [Javier Donna](https:/
   * [Matching data in financial databases](https://libguides.princeton.edu/MatchFinancial) -->
 
 # On Writing and Presentation
-* [How to read journal paper like a professor?](https://www.dropbox.com/s/2q08lr4q7yy9cdt/How%20to%20Read%20Journal%20Articles%20Like%20a%20Professor.pdf?dl=0)
+* [How to read journal articals like a professor?](https://www.dropbox.com/s/2q08lr4q7yy9cdt/How%20to%20Read%20Journal%20Articles%20Like%20a%20Professor.pdf?dl=0)
 * Neale Mahoney's JEP 2022 paper on [Principles for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.211)
   1. Show your variation with descriptive analysis (to "make the case" for the identifying variation that drives the rest of the empirical analysis.).
   2. Use the descriptive analysis to provide preliminary evidence.
