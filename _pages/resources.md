@@ -8,9 +8,18 @@ redirect_from:
 Here are some resources that helped me a lot (inspired by [Javier Donna](https://www.jdonna.org/resources) and [Chuqing Jin](https://chuqingjin.github.io/resources/))
 
 # On Useful Notes
-* Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html) and [IO](https://chrisconlon.github.io/gradio.html)
-* Jonathan Levin's [notes on market design and IO](https://web.stanford.edu/~jdlevin/teaching.html)
-* Ian McCarthy's [supply-side health economics topics](https://econ771f22.classes.ianmccarthyecon.com/)
+* **Casual Inference**
+  * [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham
+  * [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) 
+  * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) 
+
+* **Resources for specific estimators and research designs:**
+  * [The DiD Project](https://asjadnaqvi.github.io/DiD/). An up-to-date compilation of code, literature, and accessible blog/video posts from [Asjad Naqvi](https://asjadnaqvi.github.io/)
+
+* **Others**
+  * Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html) and [IO](https://chrisconlon.github.io/gradio.html)
+  * Jonathan Levin's [notes on market design and IO](https://web.stanford.edu/~jdlevin/teaching.html)
+  * Ian McCarthy's [supply-side health economics topics](https://econ771f22.classes.ianmccarthyecon.com/)
 
 # On Coding and Programming
 * [R for Data Science](https://r4ds.had.co.nz/)
